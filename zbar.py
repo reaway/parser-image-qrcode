@@ -23,4 +23,4 @@ def zbar_parser(image_path):
         print(data)
 
 
-zbar_parser('./image/000595101152.jpg')
+zbar_parser('./image/test.png')

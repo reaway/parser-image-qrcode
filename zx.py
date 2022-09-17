@@ -6,6 +6,6 @@
 import zxing
 
 reader = zxing.BarCodeReader()
-barcode = reader.decode('./image/000595101152.jpg')
+barcode = reader.decode('./image/test.png')
 print(barcode.type)
 print(barcode.parsed)

@@ -6,5 +6,5 @@
 from pyzxing import BarCodeReader
 
 reader = BarCodeReader()
-results = reader.decode('./image/000595101152.jpg')
+results = reader.decode('./image/test.png')
 print(results)
