@@ -29,14 +29,14 @@ python zbar.py
 
 ```bash
 # 安装依赖库
-pip pip install zxing
+pip install zxing
 
 python zx.py
 ```
 或者
 ```bash
 # 安装依赖库
-pip pip install pyzxing
+pip install pyzxing
 
 # 测试
 python zxpy.py
